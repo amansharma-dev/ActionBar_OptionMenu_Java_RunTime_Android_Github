@@ -50,5 +50,9 @@ To create menu items using java code, override `onCreateOptionsMenu(Menu menu){ 
 
 In above code I've added Toast message on *MenuItemOne* & *MenuItemFour*. I have dimmed out *MenuItemTwo , Three & Five* by adding this piece of code `menuItemTwo.setEnabled(false);` to each 
 
+## Note : 
+
+Using Java code, we can also remove or disable menu items programmatically.
+
 # Thank You.
 
