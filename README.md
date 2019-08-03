@@ -2,7 +2,7 @@
 
 ![](ActionBar_OptionMenu_Java_RunTime_Android_Github_gif.gif)
 
-## Introductio
+## Introduction
 
 In this application we have created an options menu in action bar using **java code**.
 
